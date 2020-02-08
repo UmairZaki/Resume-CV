@@ -54,7 +54,7 @@ const One = props => (
               <h4>Matriculation from Karachi Board (Commerce Grade "A"2008)</h4>
               <h4>Intermediate from Karachi Board (Commerce Grade "C" 2010)</h4>
               <h4>Studying Artificial intelligence, Cloud Native Computing and Internet of Things from Axiom PIAIC Headquarter.</h4>
-              <h5>Some of my achivemets are given below:</h5>
+              <h5>Some of my achievemets are given below:</h5>
               
             </div>
           </div>
